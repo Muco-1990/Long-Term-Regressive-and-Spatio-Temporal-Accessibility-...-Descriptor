@@ -1,0 +1,2 @@
+# Long-Term-Regressive-and-Spatio-Temporal-Accessibility-...-Descriptor
+The GHI sample is referred to to evaluate the spatio-temporal accessibility of solar energy: (1) GHI data, measured daily in six stakes of the Sul Centro region; (2) processed data for temporal, spatial and regressive analysis of solar energy in the region in question. The sample should be used under the consent of the authors.
